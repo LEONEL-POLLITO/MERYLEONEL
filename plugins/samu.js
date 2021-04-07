@@ -3,16 +3,16 @@ let handler = async m => m.reply(`
  /S\  /m\  /3\  /3\  /0\ 
 <___><___><___><___><___>
 
-COMO CREAR ESTE BOT:
+AMORES UWU BOT:
 
-https://youtu.be/chMc57gjmkI
+ ⁨➴ꪾꦿ᭄፝ᵗᶤᶰᵏᶤˡᵛᵉʳ᭄ᶜᵃᵐᵖᵃᶰᶤᵗA🇰🇬⁩
 
 𝙈𝙮 𝘾𝙝𝙖𝙣𝙚𝙡:
 
-https://www.youtube.com/channel/UCHD4T8Pfcv5PFVzsAbfAPZA
+ৣ››🐰͢⸸ғᴋ᭭-ʟᷤᴇͤᴏͧɴͪᴇͤʟᷤ⸸
                                         
 `.trim()) 
-handler.help = ['samu']
+handler.help = ['MERRYLEONEL']
 handler.tags = ['info']
 handler.command = /^samu$/i
 
